@@ -1,0 +1,30 @@
+Java API with cosmo
+https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-java-web-app
+
+.net api with cosmo
+https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-dotnet-console-app
+
+
+
+https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/PowerShell-7.4.6-win-x64.msi
+ 
+
+
+
+
+
+Download SQL Server Management Studio (SSMS)
+https://aka.ms/ssmsfullsetup
+
+
+Mongo db shell
+
+https://downloads.mongodb.com/compass/mongosh-2.3.7-x64.msi
+
+Git base :
+https://git-scm.com/downloads/win
+Git hub desktop:
+https://desktop.github.com/download/
+
+https://nodejs.org/en/download/prebuilt-installer
+https://code.visualstudio.com/download
